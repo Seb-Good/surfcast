@@ -1,301 +1,301 @@
 filename,extension,filetype,lake,file_datetime,current_datetime,forecast,url
-s202004800.0.wnd,wnd,WINDS,superior,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004800.0.wav,wav,WAVES,superior,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004800.0.swt,swt,SURFACE TEMPS,superior,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004800.0.ice,ice,ICE PARAMS,superior,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004800.0.cur,cur,SURFACE CURRENTS,superior,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004800.0.wnd,wnd,WINDS,ontario,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004800.0.wav,wav,WAVES,ontario,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004800.0.swt,swt,SURFACE TEMPS,ontario,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004800.0.ice,ice,ICE PARAMS,ontario,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004800.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004800.0.wnd,wnd,WINDS,michigan,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004800.0.wav,wav,WAVES,michigan,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004800.0.swt,swt,SURFACE TEMPS,michigan,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004800.0.ice,ice,ICE PARAMS,michigan,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004800.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004800.0.wnd,wnd,WINDS,huron,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004800.0.wav,wav,WAVES,huron,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004800.0.swt,swt,SURFACE TEMPS,huron,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004800.0.ice,ice,ICE PARAMS,huron,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004800.0.cur,cur,SURFACE CURRENTS,huron,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004800.0.wnd,wnd,WINDS,erie,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004800.0.wav,wav,WAVES,erie,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004800.0.swt,swt,SURFACE TEMPS,erie,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004800.0.ice,ice,ICE PARAMS,erie,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004800.0.cur,cur,SURFACE CURRENTS,erie,2020-02-17 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004712.0.wnd,wnd,WINDS,superior,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004712.0.wav,wav,WAVES,superior,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004712.0.swt,swt,SURFACE TEMPS,superior,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004712.0.ice,ice,ICE PARAMS,superior,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004712.0.cur,cur,SURFACE CURRENTS,superior,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004712.0.wnd,wnd,WINDS,ontario,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004712.0.wav,wav,WAVES,ontario,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004712.0.swt,swt,SURFACE TEMPS,ontario,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004712.0.ice,ice,ICE PARAMS,ontario,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004712.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004712.0.wnd,wnd,WINDS,michigan,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004712.0.wav,wav,WAVES,michigan,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004712.0.swt,swt,SURFACE TEMPS,michigan,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004712.0.ice,ice,ICE PARAMS,michigan,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004712.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004712.0.wnd,wnd,WINDS,huron,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004712.0.wav,wav,WAVES,huron,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004712.0.swt,swt,SURFACE TEMPS,huron,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004712.0.ice,ice,ICE PARAMS,huron,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004712.0.cur,cur,SURFACE CURRENTS,huron,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004712.0.wnd,wnd,WINDS,erie,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004712.0.wav,wav,WAVES,erie,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004712.0.swt,swt,SURFACE TEMPS,erie,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004712.0.ice,ice,ICE PARAMS,erie,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004712.0.cur,cur,SURFACE CURRENTS,erie,2020-02-16 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004700.0.wnd,wnd,WINDS,superior,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004700.0.wav,wav,WAVES,superior,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004700.0.swt,swt,SURFACE TEMPS,superior,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004700.0.ice,ice,ICE PARAMS,superior,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004700.0.cur,cur,SURFACE CURRENTS,superior,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004700.0.wnd,wnd,WINDS,ontario,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004700.0.wav,wav,WAVES,ontario,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004700.0.swt,swt,SURFACE TEMPS,ontario,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004700.0.ice,ice,ICE PARAMS,ontario,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004700.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004700.0.wnd,wnd,WINDS,michigan,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004700.0.wav,wav,WAVES,michigan,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004700.0.swt,swt,SURFACE TEMPS,michigan,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004700.0.ice,ice,ICE PARAMS,michigan,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004700.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004700.0.wnd,wnd,WINDS,huron,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004700.0.wav,wav,WAVES,huron,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004700.0.swt,swt,SURFACE TEMPS,huron,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004700.0.ice,ice,ICE PARAMS,huron,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004700.0.cur,cur,SURFACE CURRENTS,huron,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004700.0.wnd,wnd,WINDS,erie,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004700.0.wav,wav,WAVES,erie,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004700.0.swt,swt,SURFACE TEMPS,erie,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004700.0.ice,ice,ICE PARAMS,erie,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004700.0.cur,cur,SURFACE CURRENTS,erie,2020-02-16 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004612.0.wnd,wnd,WINDS,superior,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004612.0.wav,wav,WAVES,superior,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004612.0.swt,swt,SURFACE TEMPS,superior,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004612.0.ice,ice,ICE PARAMS,superior,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004612.0.cur,cur,SURFACE CURRENTS,superior,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004612.0.wnd,wnd,WINDS,ontario,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004612.0.wav,wav,WAVES,ontario,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004612.0.swt,swt,SURFACE TEMPS,ontario,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004612.0.ice,ice,ICE PARAMS,ontario,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004612.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004612.0.wnd,wnd,WINDS,michigan,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004612.0.wav,wav,WAVES,michigan,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004612.0.swt,swt,SURFACE TEMPS,michigan,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004612.0.ice,ice,ICE PARAMS,michigan,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004612.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004612.0.wnd,wnd,WINDS,huron,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004612.0.wav,wav,WAVES,huron,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004612.0.swt,swt,SURFACE TEMPS,huron,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004612.0.ice,ice,ICE PARAMS,huron,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004612.0.cur,cur,SURFACE CURRENTS,huron,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004612.0.wnd,wnd,WINDS,erie,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004612.0.wav,wav,WAVES,erie,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004612.0.swt,swt,SURFACE TEMPS,erie,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004612.0.ice,ice,ICE PARAMS,erie,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004612.0.cur,cur,SURFACE CURRENTS,erie,2020-02-15 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004600.0.wnd,wnd,WINDS,superior,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004600.0.wav,wav,WAVES,superior,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004600.0.swt,swt,SURFACE TEMPS,superior,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004600.0.ice,ice,ICE PARAMS,superior,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004600.0.cur,cur,SURFACE CURRENTS,superior,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004600.0.wnd,wnd,WINDS,ontario,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004600.0.wav,wav,WAVES,ontario,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004600.0.swt,swt,SURFACE TEMPS,ontario,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004600.0.ice,ice,ICE PARAMS,ontario,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004600.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004600.0.wnd,wnd,WINDS,michigan,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004600.0.wav,wav,WAVES,michigan,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004600.0.swt,swt,SURFACE TEMPS,michigan,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004600.0.ice,ice,ICE PARAMS,michigan,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004600.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004600.0.wnd,wnd,WINDS,huron,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004600.0.wav,wav,WAVES,huron,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004600.0.swt,swt,SURFACE TEMPS,huron,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004600.0.ice,ice,ICE PARAMS,huron,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004600.0.cur,cur,SURFACE CURRENTS,huron,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004600.0.wnd,wnd,WINDS,erie,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004600.0.wav,wav,WAVES,erie,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004600.0.swt,swt,SURFACE TEMPS,erie,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004600.0.ice,ice,ICE PARAMS,erie,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004600.0.cur,cur,SURFACE CURRENTS,erie,2020-02-15 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004512.0.wnd,wnd,WINDS,superior,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004512.0.wav,wav,WAVES,superior,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004512.0.swt,swt,SURFACE TEMPS,superior,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004512.0.ice,ice,ICE PARAMS,superior,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004512.0.cur,cur,SURFACE CURRENTS,superior,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004512.0.wnd,wnd,WINDS,ontario,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004512.0.wav,wav,WAVES,ontario,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004512.0.swt,swt,SURFACE TEMPS,ontario,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004512.0.ice,ice,ICE PARAMS,ontario,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004512.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004512.0.wnd,wnd,WINDS,michigan,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004512.0.wav,wav,WAVES,michigan,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004512.0.swt,swt,SURFACE TEMPS,michigan,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004512.0.ice,ice,ICE PARAMS,michigan,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004512.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004512.0.wnd,wnd,WINDS,huron,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004512.0.wav,wav,WAVES,huron,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004512.0.swt,swt,SURFACE TEMPS,huron,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004512.0.ice,ice,ICE PARAMS,huron,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004512.0.cur,cur,SURFACE CURRENTS,huron,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004512.0.wnd,wnd,WINDS,erie,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004512.0.wav,wav,WAVES,erie,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004512.0.swt,swt,SURFACE TEMPS,erie,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004512.0.ice,ice,ICE PARAMS,erie,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004512.0.cur,cur,SURFACE CURRENTS,erie,2020-02-14 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004500.0.wnd,wnd,WINDS,superior,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004500.0.wav,wav,WAVES,superior,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004500.0.swt,swt,SURFACE TEMPS,superior,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004500.0.ice,ice,ICE PARAMS,superior,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004500.0.cur,cur,SURFACE CURRENTS,superior,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004500.0.wnd,wnd,WINDS,ontario,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004500.0.wav,wav,WAVES,ontario,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004500.0.swt,swt,SURFACE TEMPS,ontario,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004500.0.ice,ice,ICE PARAMS,ontario,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004500.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004500.0.wnd,wnd,WINDS,michigan,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004500.0.wav,wav,WAVES,michigan,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004500.0.swt,swt,SURFACE TEMPS,michigan,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004500.0.ice,ice,ICE PARAMS,michigan,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004500.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004500.0.wnd,wnd,WINDS,huron,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004500.0.wav,wav,WAVES,huron,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004500.0.swt,swt,SURFACE TEMPS,huron,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004500.0.ice,ice,ICE PARAMS,huron,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004500.0.cur,cur,SURFACE CURRENTS,huron,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004500.0.wnd,wnd,WINDS,erie,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004500.0.wav,wav,WAVES,erie,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004500.0.swt,swt,SURFACE TEMPS,erie,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004500.0.ice,ice,ICE PARAMS,erie,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004500.0.cur,cur,SURFACE CURRENTS,erie,2020-02-14 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004412.0.wnd,wnd,WINDS,superior,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004412.0.wav,wav,WAVES,superior,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004412.0.swt,swt,SURFACE TEMPS,superior,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004412.0.ice,ice,ICE PARAMS,superior,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004412.0.cur,cur,SURFACE CURRENTS,superior,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004412.0.wnd,wnd,WINDS,ontario,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004412.0.wav,wav,WAVES,ontario,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004412.0.swt,swt,SURFACE TEMPS,ontario,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004412.0.ice,ice,ICE PARAMS,ontario,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004412.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004412.0.wnd,wnd,WINDS,michigan,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004412.0.wav,wav,WAVES,michigan,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004412.0.swt,swt,SURFACE TEMPS,michigan,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004412.0.ice,ice,ICE PARAMS,michigan,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004412.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004412.0.wnd,wnd,WINDS,huron,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004412.0.wav,wav,WAVES,huron,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004412.0.swt,swt,SURFACE TEMPS,huron,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004412.0.ice,ice,ICE PARAMS,huron,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004412.0.cur,cur,SURFACE CURRENTS,huron,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004412.0.wnd,wnd,WINDS,erie,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004412.0.wav,wav,WAVES,erie,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004412.0.swt,swt,SURFACE TEMPS,erie,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004412.0.ice,ice,ICE PARAMS,erie,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004412.0.cur,cur,SURFACE CURRENTS,erie,2020-02-13 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004400.0.wnd,wnd,WINDS,superior,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004400.0.wav,wav,WAVES,superior,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004400.0.swt,swt,SURFACE TEMPS,superior,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004400.0.ice,ice,ICE PARAMS,superior,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004400.0.cur,cur,SURFACE CURRENTS,superior,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004400.0.wnd,wnd,WINDS,ontario,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004400.0.wav,wav,WAVES,ontario,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004400.0.swt,swt,SURFACE TEMPS,ontario,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004400.0.ice,ice,ICE PARAMS,ontario,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004400.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004400.0.wnd,wnd,WINDS,michigan,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004400.0.wav,wav,WAVES,michigan,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004400.0.swt,swt,SURFACE TEMPS,michigan,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004400.0.ice,ice,ICE PARAMS,michigan,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004400.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004400.0.wnd,wnd,WINDS,huron,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004400.0.wav,wav,WAVES,huron,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004400.0.swt,swt,SURFACE TEMPS,huron,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004400.0.ice,ice,ICE PARAMS,huron,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004400.0.cur,cur,SURFACE CURRENTS,huron,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004400.0.wnd,wnd,WINDS,erie,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004400.0.wav,wav,WAVES,erie,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004400.0.swt,swt,SURFACE TEMPS,erie,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004400.0.ice,ice,ICE PARAMS,erie,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004400.0.cur,cur,SURFACE CURRENTS,erie,2020-02-13 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004312.0.wnd,wnd,WINDS,superior,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004312.0.wav,wav,WAVES,superior,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004312.0.swt,swt,SURFACE TEMPS,superior,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004312.0.ice,ice,ICE PARAMS,superior,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004312.0.cur,cur,SURFACE CURRENTS,superior,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004312.0.wnd,wnd,WINDS,ontario,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004312.0.wav,wav,WAVES,ontario,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004312.0.swt,swt,SURFACE TEMPS,ontario,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004312.0.ice,ice,ICE PARAMS,ontario,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004312.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004312.0.wnd,wnd,WINDS,michigan,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004312.0.wav,wav,WAVES,michigan,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004312.0.swt,swt,SURFACE TEMPS,michigan,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004312.0.ice,ice,ICE PARAMS,michigan,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004312.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004312.0.wnd,wnd,WINDS,huron,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004312.0.wav,wav,WAVES,huron,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004312.0.swt,swt,SURFACE TEMPS,huron,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004312.0.ice,ice,ICE PARAMS,huron,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004312.0.cur,cur,SURFACE CURRENTS,huron,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004312.0.wnd,wnd,WINDS,erie,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004312.0.wav,wav,WAVES,erie,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004312.0.swt,swt,SURFACE TEMPS,erie,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004312.0.ice,ice,ICE PARAMS,erie,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004312.0.cur,cur,SURFACE CURRENTS,erie,2020-02-12 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004300.0.wnd,wnd,WINDS,superior,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004300.0.wav,wav,WAVES,superior,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004300.0.swt,swt,SURFACE TEMPS,superior,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004300.0.ice,ice,ICE PARAMS,superior,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004300.0.cur,cur,SURFACE CURRENTS,superior,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004300.0.wnd,wnd,WINDS,ontario,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004300.0.wav,wav,WAVES,ontario,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004300.0.swt,swt,SURFACE TEMPS,ontario,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004300.0.ice,ice,ICE PARAMS,ontario,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004300.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004300.0.wnd,wnd,WINDS,michigan,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004300.0.wav,wav,WAVES,michigan,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004300.0.swt,swt,SURFACE TEMPS,michigan,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004300.0.ice,ice,ICE PARAMS,michigan,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004300.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004300.0.wnd,wnd,WINDS,huron,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004300.0.wav,wav,WAVES,huron,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004300.0.swt,swt,SURFACE TEMPS,huron,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004300.0.ice,ice,ICE PARAMS,huron,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004300.0.cur,cur,SURFACE CURRENTS,huron,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004300.0.wnd,wnd,WINDS,erie,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004300.0.wav,wav,WAVES,erie,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004300.0.swt,swt,SURFACE TEMPS,erie,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004300.0.ice,ice,ICE PARAMS,erie,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004300.0.cur,cur,SURFACE CURRENTS,erie,2020-02-12 00:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004212.0.wnd,wnd,WINDS,superior,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004212.0.wav,wav,WAVES,superior,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004212.0.swt,swt,SURFACE TEMPS,superior,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004212.0.ice,ice,ICE PARAMS,superior,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-s202004212.0.cur,cur,SURFACE CURRENTS,superior,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004212.0.wnd,wnd,WINDS,ontario,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004212.0.wav,wav,WAVES,ontario,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004212.0.swt,swt,SURFACE TEMPS,ontario,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004212.0.ice,ice,ICE PARAMS,ontario,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-o202004212.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004212.0.wnd,wnd,WINDS,michigan,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004212.0.wav,wav,WAVES,michigan,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004212.0.swt,swt,SURFACE TEMPS,michigan,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004212.0.ice,ice,ICE PARAMS,michigan,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-m202004212.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004212.0.wnd,wnd,WINDS,huron,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004212.0.wav,wav,WAVES,huron,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004212.0.swt,swt,SURFACE TEMPS,huron,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004212.0.ice,ice,ICE PARAMS,huron,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-h202004212.0.cur,cur,SURFACE CURRENTS,huron,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004212.0.wnd,wnd,WINDS,erie,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004212.0.wav,wav,WAVES,erie,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004212.0.swt,swt,SURFACE TEMPS,erie,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004212.0.ice,ice,ICE PARAMS,erie,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
-e202004212.0.cur,cur,SURFACE CURRENTS,erie,2020-02-11 12:00:00+00:00,2020-02-17 04:55:15.289558+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004800.0.wnd,wnd,WINDS,superior,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004800.0.wav,wav,WAVES,superior,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004800.0.swt,swt,SURFACE TEMPS,superior,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004800.0.ice,ice,ICE PARAMS,superior,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004800.0.cur,cur,SURFACE CURRENTS,superior,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004800.0.wnd,wnd,WINDS,ontario,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004800.0.wav,wav,WAVES,ontario,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004800.0.swt,swt,SURFACE TEMPS,ontario,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004800.0.ice,ice,ICE PARAMS,ontario,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004800.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004800.0.wnd,wnd,WINDS,michigan,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004800.0.wav,wav,WAVES,michigan,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004800.0.swt,swt,SURFACE TEMPS,michigan,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004800.0.ice,ice,ICE PARAMS,michigan,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004800.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004800.0.wnd,wnd,WINDS,huron,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004800.0.wav,wav,WAVES,huron,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004800.0.swt,swt,SURFACE TEMPS,huron,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004800.0.ice,ice,ICE PARAMS,huron,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004800.0.cur,cur,SURFACE CURRENTS,huron,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004800.0.wnd,wnd,WINDS,erie,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004800.0.wav,wav,WAVES,erie,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004800.0.swt,swt,SURFACE TEMPS,erie,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004800.0.ice,ice,ICE PARAMS,erie,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004800.0.cur,cur,SURFACE CURRENTS,erie,2020-02-17 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004712.0.wnd,wnd,WINDS,superior,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004712.0.wav,wav,WAVES,superior,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004712.0.swt,swt,SURFACE TEMPS,superior,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004712.0.ice,ice,ICE PARAMS,superior,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004712.0.cur,cur,SURFACE CURRENTS,superior,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004712.0.wnd,wnd,WINDS,ontario,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004712.0.wav,wav,WAVES,ontario,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004712.0.swt,swt,SURFACE TEMPS,ontario,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004712.0.ice,ice,ICE PARAMS,ontario,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004712.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004712.0.wnd,wnd,WINDS,michigan,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004712.0.wav,wav,WAVES,michigan,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004712.0.swt,swt,SURFACE TEMPS,michigan,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004712.0.ice,ice,ICE PARAMS,michigan,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004712.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004712.0.wnd,wnd,WINDS,huron,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004712.0.wav,wav,WAVES,huron,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004712.0.swt,swt,SURFACE TEMPS,huron,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004712.0.ice,ice,ICE PARAMS,huron,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004712.0.cur,cur,SURFACE CURRENTS,huron,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004712.0.wnd,wnd,WINDS,erie,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004712.0.wav,wav,WAVES,erie,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004712.0.swt,swt,SURFACE TEMPS,erie,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004712.0.ice,ice,ICE PARAMS,erie,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004712.0.cur,cur,SURFACE CURRENTS,erie,2020-02-16 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004700.0.wnd,wnd,WINDS,superior,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004700.0.wav,wav,WAVES,superior,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004700.0.swt,swt,SURFACE TEMPS,superior,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004700.0.ice,ice,ICE PARAMS,superior,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004700.0.cur,cur,SURFACE CURRENTS,superior,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004700.0.wnd,wnd,WINDS,ontario,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004700.0.wav,wav,WAVES,ontario,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004700.0.swt,swt,SURFACE TEMPS,ontario,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004700.0.ice,ice,ICE PARAMS,ontario,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004700.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004700.0.wnd,wnd,WINDS,michigan,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004700.0.wav,wav,WAVES,michigan,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004700.0.swt,swt,SURFACE TEMPS,michigan,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004700.0.ice,ice,ICE PARAMS,michigan,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004700.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004700.0.wnd,wnd,WINDS,huron,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004700.0.wav,wav,WAVES,huron,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004700.0.swt,swt,SURFACE TEMPS,huron,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004700.0.ice,ice,ICE PARAMS,huron,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004700.0.cur,cur,SURFACE CURRENTS,huron,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004700.0.wnd,wnd,WINDS,erie,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004700.0.wav,wav,WAVES,erie,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004700.0.swt,swt,SURFACE TEMPS,erie,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004700.0.ice,ice,ICE PARAMS,erie,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004700.0.cur,cur,SURFACE CURRENTS,erie,2020-02-16 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004612.0.wnd,wnd,WINDS,superior,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004612.0.wav,wav,WAVES,superior,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004612.0.swt,swt,SURFACE TEMPS,superior,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004612.0.ice,ice,ICE PARAMS,superior,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004612.0.cur,cur,SURFACE CURRENTS,superior,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004612.0.wnd,wnd,WINDS,ontario,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004612.0.wav,wav,WAVES,ontario,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004612.0.swt,swt,SURFACE TEMPS,ontario,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004612.0.ice,ice,ICE PARAMS,ontario,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004612.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004612.0.wnd,wnd,WINDS,michigan,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004612.0.wav,wav,WAVES,michigan,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004612.0.swt,swt,SURFACE TEMPS,michigan,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004612.0.ice,ice,ICE PARAMS,michigan,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004612.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004612.0.wnd,wnd,WINDS,huron,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004612.0.wav,wav,WAVES,huron,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004612.0.swt,swt,SURFACE TEMPS,huron,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004612.0.ice,ice,ICE PARAMS,huron,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004612.0.cur,cur,SURFACE CURRENTS,huron,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004612.0.wnd,wnd,WINDS,erie,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004612.0.wav,wav,WAVES,erie,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004612.0.swt,swt,SURFACE TEMPS,erie,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004612.0.ice,ice,ICE PARAMS,erie,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004612.0.cur,cur,SURFACE CURRENTS,erie,2020-02-15 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004600.0.wnd,wnd,WINDS,superior,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004600.0.wav,wav,WAVES,superior,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004600.0.swt,swt,SURFACE TEMPS,superior,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004600.0.ice,ice,ICE PARAMS,superior,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004600.0.cur,cur,SURFACE CURRENTS,superior,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004600.0.wnd,wnd,WINDS,ontario,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004600.0.wav,wav,WAVES,ontario,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004600.0.swt,swt,SURFACE TEMPS,ontario,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004600.0.ice,ice,ICE PARAMS,ontario,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004600.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004600.0.wnd,wnd,WINDS,michigan,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004600.0.wav,wav,WAVES,michigan,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004600.0.swt,swt,SURFACE TEMPS,michigan,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004600.0.ice,ice,ICE PARAMS,michigan,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004600.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004600.0.wnd,wnd,WINDS,huron,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004600.0.wav,wav,WAVES,huron,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004600.0.swt,swt,SURFACE TEMPS,huron,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004600.0.ice,ice,ICE PARAMS,huron,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004600.0.cur,cur,SURFACE CURRENTS,huron,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004600.0.wnd,wnd,WINDS,erie,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004600.0.wav,wav,WAVES,erie,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004600.0.swt,swt,SURFACE TEMPS,erie,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004600.0.ice,ice,ICE PARAMS,erie,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004600.0.cur,cur,SURFACE CURRENTS,erie,2020-02-15 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004512.0.wnd,wnd,WINDS,superior,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004512.0.wav,wav,WAVES,superior,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004512.0.swt,swt,SURFACE TEMPS,superior,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004512.0.ice,ice,ICE PARAMS,superior,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004512.0.cur,cur,SURFACE CURRENTS,superior,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004512.0.wnd,wnd,WINDS,ontario,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004512.0.wav,wav,WAVES,ontario,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004512.0.swt,swt,SURFACE TEMPS,ontario,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004512.0.ice,ice,ICE PARAMS,ontario,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004512.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004512.0.wnd,wnd,WINDS,michigan,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004512.0.wav,wav,WAVES,michigan,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004512.0.swt,swt,SURFACE TEMPS,michigan,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004512.0.ice,ice,ICE PARAMS,michigan,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004512.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004512.0.wnd,wnd,WINDS,huron,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004512.0.wav,wav,WAVES,huron,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004512.0.swt,swt,SURFACE TEMPS,huron,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004512.0.ice,ice,ICE PARAMS,huron,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004512.0.cur,cur,SURFACE CURRENTS,huron,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004512.0.wnd,wnd,WINDS,erie,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004512.0.wav,wav,WAVES,erie,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004512.0.swt,swt,SURFACE TEMPS,erie,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004512.0.ice,ice,ICE PARAMS,erie,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004512.0.cur,cur,SURFACE CURRENTS,erie,2020-02-14 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004500.0.wnd,wnd,WINDS,superior,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004500.0.wav,wav,WAVES,superior,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004500.0.swt,swt,SURFACE TEMPS,superior,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004500.0.ice,ice,ICE PARAMS,superior,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004500.0.cur,cur,SURFACE CURRENTS,superior,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004500.0.wnd,wnd,WINDS,ontario,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004500.0.wav,wav,WAVES,ontario,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004500.0.swt,swt,SURFACE TEMPS,ontario,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004500.0.ice,ice,ICE PARAMS,ontario,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004500.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004500.0.wnd,wnd,WINDS,michigan,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004500.0.wav,wav,WAVES,michigan,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004500.0.swt,swt,SURFACE TEMPS,michigan,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004500.0.ice,ice,ICE PARAMS,michigan,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004500.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004500.0.wnd,wnd,WINDS,huron,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004500.0.wav,wav,WAVES,huron,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004500.0.swt,swt,SURFACE TEMPS,huron,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004500.0.ice,ice,ICE PARAMS,huron,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004500.0.cur,cur,SURFACE CURRENTS,huron,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004500.0.wnd,wnd,WINDS,erie,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004500.0.wav,wav,WAVES,erie,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004500.0.swt,swt,SURFACE TEMPS,erie,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004500.0.ice,ice,ICE PARAMS,erie,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004500.0.cur,cur,SURFACE CURRENTS,erie,2020-02-14 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004412.0.wnd,wnd,WINDS,superior,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004412.0.wav,wav,WAVES,superior,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004412.0.swt,swt,SURFACE TEMPS,superior,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004412.0.ice,ice,ICE PARAMS,superior,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004412.0.cur,cur,SURFACE CURRENTS,superior,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004412.0.wnd,wnd,WINDS,ontario,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004412.0.wav,wav,WAVES,ontario,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004412.0.swt,swt,SURFACE TEMPS,ontario,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004412.0.ice,ice,ICE PARAMS,ontario,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004412.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004412.0.wnd,wnd,WINDS,michigan,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004412.0.wav,wav,WAVES,michigan,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004412.0.swt,swt,SURFACE TEMPS,michigan,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004412.0.ice,ice,ICE PARAMS,michigan,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004412.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004412.0.wnd,wnd,WINDS,huron,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004412.0.wav,wav,WAVES,huron,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004412.0.swt,swt,SURFACE TEMPS,huron,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004412.0.ice,ice,ICE PARAMS,huron,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004412.0.cur,cur,SURFACE CURRENTS,huron,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004412.0.wnd,wnd,WINDS,erie,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004412.0.wav,wav,WAVES,erie,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004412.0.swt,swt,SURFACE TEMPS,erie,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004412.0.ice,ice,ICE PARAMS,erie,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004412.0.cur,cur,SURFACE CURRENTS,erie,2020-02-13 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004400.0.wnd,wnd,WINDS,superior,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004400.0.wav,wav,WAVES,superior,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004400.0.swt,swt,SURFACE TEMPS,superior,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004400.0.ice,ice,ICE PARAMS,superior,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004400.0.cur,cur,SURFACE CURRENTS,superior,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004400.0.wnd,wnd,WINDS,ontario,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004400.0.wav,wav,WAVES,ontario,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004400.0.swt,swt,SURFACE TEMPS,ontario,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004400.0.ice,ice,ICE PARAMS,ontario,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004400.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004400.0.wnd,wnd,WINDS,michigan,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004400.0.wav,wav,WAVES,michigan,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004400.0.swt,swt,SURFACE TEMPS,michigan,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004400.0.ice,ice,ICE PARAMS,michigan,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004400.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004400.0.wnd,wnd,WINDS,huron,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004400.0.wav,wav,WAVES,huron,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004400.0.swt,swt,SURFACE TEMPS,huron,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004400.0.ice,ice,ICE PARAMS,huron,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004400.0.cur,cur,SURFACE CURRENTS,huron,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004400.0.wnd,wnd,WINDS,erie,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004400.0.wav,wav,WAVES,erie,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004400.0.swt,swt,SURFACE TEMPS,erie,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004400.0.ice,ice,ICE PARAMS,erie,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004400.0.cur,cur,SURFACE CURRENTS,erie,2020-02-13 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004312.0.wnd,wnd,WINDS,superior,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004312.0.wav,wav,WAVES,superior,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004312.0.swt,swt,SURFACE TEMPS,superior,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004312.0.ice,ice,ICE PARAMS,superior,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004312.0.cur,cur,SURFACE CURRENTS,superior,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004312.0.wnd,wnd,WINDS,ontario,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004312.0.wav,wav,WAVES,ontario,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004312.0.swt,swt,SURFACE TEMPS,ontario,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004312.0.ice,ice,ICE PARAMS,ontario,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004312.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004312.0.wnd,wnd,WINDS,michigan,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004312.0.wav,wav,WAVES,michigan,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004312.0.swt,swt,SURFACE TEMPS,michigan,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004312.0.ice,ice,ICE PARAMS,michigan,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004312.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004312.0.wnd,wnd,WINDS,huron,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004312.0.wav,wav,WAVES,huron,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004312.0.swt,swt,SURFACE TEMPS,huron,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004312.0.ice,ice,ICE PARAMS,huron,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004312.0.cur,cur,SURFACE CURRENTS,huron,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004312.0.wnd,wnd,WINDS,erie,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004312.0.wav,wav,WAVES,erie,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004312.0.swt,swt,SURFACE TEMPS,erie,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004312.0.ice,ice,ICE PARAMS,erie,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004312.0.cur,cur,SURFACE CURRENTS,erie,2020-02-12 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004300.0.wnd,wnd,WINDS,superior,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004300.0.wav,wav,WAVES,superior,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004300.0.swt,swt,SURFACE TEMPS,superior,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004300.0.ice,ice,ICE PARAMS,superior,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004300.0.cur,cur,SURFACE CURRENTS,superior,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004300.0.wnd,wnd,WINDS,ontario,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004300.0.wav,wav,WAVES,ontario,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004300.0.swt,swt,SURFACE TEMPS,ontario,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004300.0.ice,ice,ICE PARAMS,ontario,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004300.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004300.0.wnd,wnd,WINDS,michigan,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004300.0.wav,wav,WAVES,michigan,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004300.0.swt,swt,SURFACE TEMPS,michigan,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004300.0.ice,ice,ICE PARAMS,michigan,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004300.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004300.0.wnd,wnd,WINDS,huron,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004300.0.wav,wav,WAVES,huron,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004300.0.swt,swt,SURFACE TEMPS,huron,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004300.0.ice,ice,ICE PARAMS,huron,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004300.0.cur,cur,SURFACE CURRENTS,huron,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004300.0.wnd,wnd,WINDS,erie,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004300.0.wav,wav,WAVES,erie,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004300.0.swt,swt,SURFACE TEMPS,erie,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004300.0.ice,ice,ICE PARAMS,erie,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004300.0.cur,cur,SURFACE CURRENTS,erie,2020-02-12 00:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004212.0.wnd,wnd,WINDS,superior,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004212.0.wav,wav,WAVES,superior,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004212.0.swt,swt,SURFACE TEMPS,superior,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004212.0.ice,ice,ICE PARAMS,superior,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+s202004212.0.cur,cur,SURFACE CURRENTS,superior,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004212.0.wnd,wnd,WINDS,ontario,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004212.0.wav,wav,WAVES,ontario,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004212.0.swt,swt,SURFACE TEMPS,ontario,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004212.0.ice,ice,ICE PARAMS,ontario,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+o202004212.0.cur,cur,SURFACE CURRENTS,ontario,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004212.0.wnd,wnd,WINDS,michigan,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004212.0.wav,wav,WAVES,michigan,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004212.0.swt,swt,SURFACE TEMPS,michigan,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004212.0.ice,ice,ICE PARAMS,michigan,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+m202004212.0.cur,cur,SURFACE CURRENTS,michigan,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004212.0.wnd,wnd,WINDS,huron,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004212.0.wav,wav,WAVES,huron,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004212.0.swt,swt,SURFACE TEMPS,huron,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004212.0.ice,ice,ICE PARAMS,huron,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+h202004212.0.cur,cur,SURFACE CURRENTS,huron,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004212.0.wnd,wnd,WINDS,erie,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004212.0.wav,wav,WAVES,erie,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004212.0.swt,swt,SURFACE TEMPS,erie,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004212.0.ice,ice,ICE PARAMS,erie,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/
+e202004212.0.cur,cur,SURFACE CURRENTS,erie,2020-02-11 12:00:00+00:00,2020-02-17 05:02:46.459126+00:00,FCAST,http://www.glerl.noaa.gov/ftp/EMF/glcfs/gridded_fields/FCAST/

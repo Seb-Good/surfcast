@@ -172,3 +172,4 @@ ENV/
 .sqlite3
 
 # folders
+/data/surfcast_db.sqlite3
